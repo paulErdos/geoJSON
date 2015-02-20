@@ -1,0 +1,17 @@
+1. http://data.opencolorado.org/dataset/castle-rock-bike-racks/resource/7bf9ab12-cb34-42ba-bdf8-f740ff4ca112
+2. http://www.opendatadc.org/dataset?tags=education&res_format=geojson
+3. http://catalog.opendata.city/dataset/newark-neighborhoods-geojson/resource/e0dc0a7a-9a1f-431c-a4eb-008207920b01
+4. http://nycdoe.pediacities.com/dataset/map-of-parks
+5. http://nycdoe.pediacities.com/dataset/nyc-high-school-zones
+6. http://nycdoe.pediacities.com/dataset/nyc-police-precincts
+7. http://nycdoe.pediacities.com/dataset/nyc-zip-code-tabulation-areas
+8. http://nycdoe.pediacities.com/dataset/pediacities-nyc-neighborhoods
+9. http://nycdoe.pediacities.com/dataset/nyc-school-districts
+10. http://nycdoe.pediacities.com/dataset/nyc-city-council-districts
+11. http://nycdoe.pediacities.com/dataset/nyc-boundaries
+12. http://nycdoe.pediacities.com/dataset/nyc-borough-boundary
+13. http://nycdoe.pediacities.com/dataset/nyc-community-districts
+
+Not downloaded: 
+1. https://github.com/nvkelso/natural-earth-vector/tree/master/geojson
+2. http://jsonstudio.com/resources/
